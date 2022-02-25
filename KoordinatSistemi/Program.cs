@@ -23,6 +23,8 @@ namespace KoordinatSistemi
             }
             Console.ReadKey();
 
+
+
         }
     }
 }
