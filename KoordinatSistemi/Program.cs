@@ -6,6 +6,9 @@ namespace KoordinatSistemi
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Red;
+
             for (int i = -5; i <= 5; i++)
             {
                 for (int j = -5; j <= 5; j++)
